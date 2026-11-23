@@ -55,4 +55,3 @@ See [LICENSING.md](LICENSING.md) for the detailed scope and exclusions, and [NOT
 
 Third-party publications, instruments, datasets, and other externally owned materials are not automatically covered by these licenses. Reuse permissions do not imply scientific validation, ethics approval, endorsement, or academic coauthorship.
 
-**Not yet selected.** Do not assume that code, text, questionnaires, or third-party materials are licensed for reuse until an explicit license is added. We intend to specify licenses separately for software and research materials.
