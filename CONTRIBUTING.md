@@ -31,7 +31,7 @@ Disclose conflicts of interest and AI-assisted content where relevant. Respect a
 
 ## Licensing
 
-A license has not yet been selected. Please discuss rights and licensing before contributing substantial code or original research materials. No automatic permission for reuse is implied.
+Original software contributions are intended to be licensed under Apache License 2.0, and original research documentation and non-code experimental materials under CC BY 4.0, according to [LICENSING.md](LICENSING.md). Contributors must hold the necessary rights to license their submissions and identify third-party material and its separate terms. Please discuss any licensing uncertainty before contributing. License permissions do not establish academic authorship or coauthorship.
 
 ## Contact
 
