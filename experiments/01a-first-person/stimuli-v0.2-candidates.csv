@@ -1,0 +1,4 @@
+pair_id,scenario,user_prompt,control_text,treatment_text
+A01,planning,Can you help me organize a complicated task?,"One option is to list the main steps, choose one manageable action, and review progress afterward.","I suggest listing the main steps, choosing one manageable action, and reviewing progress afterward."
+A02,studying,How should I prepare for a difficult exam?,"One option is to review key topics, practice with sample questions, and revisit mistakes.","I suggest reviewing key topics, practicing with sample questions, and revisiting mistakes."
+A03,writing,What is a good way to start a research summary?,"One option is to state the question, group the main findings, and identify remaining gaps.","I suggest stating the question, grouping the main findings, and identifying remaining gaps."
