@@ -46,4 +46,13 @@ The next milestone is independent methodological review, reproducibility verific
 
 ## License
 
+This repository uses separate licenses by material type:
+
+- **Software code:** Apache License 2.0 — see [LICENSE-APACHE-2.0.txt](LICENSE-APACHE-2.0.txt).
+- **Original research documentation and non-code experimental materials:** Creative Commons Attribution 4.0 International (CC BY 4.0) — see [LICENSE-CC-BY-4.0.txt](LICENSE-CC-BY-4.0.txt).
+
+See [LICENSING.md](LICENSING.md) for the detailed scope and exclusions, and [NOTICE](NOTICE) for attribution information.
+
+Third-party publications, instruments, datasets, and other externally owned materials are not automatically covered by these licenses. Reuse permissions do not imply scientific validation, ethics approval, endorsement, or academic coauthorship.
+
 **Not yet selected.** Do not assume that code, text, questionnaires, or third-party materials are licensed for reuse until an explicit license is added. We intend to specify licenses separately for software and research materials.
