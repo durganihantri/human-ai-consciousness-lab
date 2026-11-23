@@ -1,0 +1,6 @@
+1. Download the two complete official legal texts using the URLs in README-LICENSE-UPDATE.txt, and save them as LICENSE-APACHE-2.0.txt and LICENSE-CC-BY-4.0.txt. Do not alter the text.
+2. At the GitHub repository root, upload both complete license texts, LICENSING.md, and NOTICE.
+3. Edit the root README.md License section as instructed in README-LICENSE-UPDATE.txt.
+4. Update CONTRIBUTING.md's existing "## Licensing" section to: "Contributions must be made under the applicable file license described in LICENSING.md. Contributors must have the right to submit their work. Academic coauthorship is not automatic."
+5. Check links and the GitHub Actions result. The repository owner should confirm copyright ownership of all included original files before applying the licenses.
+Suggested commit message: Add separate software and research material licenses
