@@ -28,7 +28,17 @@ Open an Issue to propose a paper, measurement scale, experimental design, reprod
 
 ## Current status
 
-**Planning / protocol development (v0.1).** No human-subject study has begun. No empirical results or validated measures are claimed.
+**Technical Prototype v0.2 — Operational / Research Pre-release**
+
+Experiment 01A (First-Person Self-Reference) is available as a public browser-based technical demonstration. The prototype has passed automated Python tests and a manual end-to-end test in iPad Safari.
+
+**[Launch Experiment 01A Demo](https://durganihantri.github.io/human-ai-consciousness-lab/experiments/01a-first-person/offline-prototype/)**
+
+The demonstration uses fictional AI dialogues and locally generated test ratings. It does not transmit or store participant data and is not intended for live human-subject research.
+
+**Research limitations:** The experimental stimuli and measurement items have not been independently validated. The study has not been preregistered or approved for participant recruitment. No empirical findings or claims about actual AI consciousness are made.
+
+The next milestone is independent methodological review, reproducibility verification, and preparation for international research collaboration.
 
 ## Project lead
 
